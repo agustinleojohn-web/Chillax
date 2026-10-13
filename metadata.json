@@ -1,0 +1,6 @@
+{
+  "name": "Chillax",
+  "description": "Cinematic Movie Discovery & Torrent Catalog Web App - browse trending, top-rated, quality torrents, and cinema catalog with curated metadata.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
